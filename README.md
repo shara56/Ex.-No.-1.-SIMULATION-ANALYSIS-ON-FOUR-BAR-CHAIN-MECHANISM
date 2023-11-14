@@ -1,6 +1,6 @@
 # Ex. No. 1.-SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 26.09.2023
 
 ## AIM:
 
@@ -32,7 +32,7 @@
 ###   Let us construct the velocity diagram taking a scale: 
 ###   0.3141 m/s = 60 mm (say) 
 ###   1. The fixed link AD, appears as a point in the velocity diagram 
-###   2. From a, draw ab = 60mm, perpendicular to AB in configuration diagram and in the direction of velocity (downward direction) 
+###   2. From a, draw ab = 60mm, perpendicular to AB in configuration diagram and in the direction of velocity (downward direction)
 ###   3. From b, draw vector bc perpendicular to BC
 ###   4. From (a,d), draw vector cd perpendicular to CD. This will intersect the previous vector at c.  
 
@@ -53,10 +53,11 @@
 
 
 ## Output:
+![image](https://github.com/Hemasonica774/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/118361409/790010b7-1af1-4ac5-b49c-dcb9fe56ba12)
 
 
-### Name:
-### Register Number: 
+### Name: Sharangini T K
+### Register Number: 212222230143
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
